@@ -1,1 +1,49 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="`Y/h:c.;gc,Jr`#oszKi" x="0" y="0"></block><block type="device_forever" id="icD3qSLVces^b~2eL[c*" x="205" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="icD3qSLVces^b~2eL[c*" x="405" y="-293"><statement name="HANDLER"><block type="device_show_leds" id="Vd^`4Vq_@=MhT!bHcrJJ"><field name="LEDS">`
+        . # # # . 
+        . . . # . 
+        . # # # . 
+        . . . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="/Z0,ecXK70.QCceUqUwZ"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="^z(TOVL,?NPq,[!mNu(8"><field name="LEDS">`
+        . # # # . 
+        . . . # . 
+        . # # . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="!t8Xv)E7|[QJ!!5?GvWt"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="GWI*!qbQRmrmLz(1;~/u"><field name="LEDS">`
+        . . # . . 
+        . # # . . 
+        . . # . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="b$$MQjTh)ZJrPw,l%E5y"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="Z0n0LN%rt_n2j^hn=-Ov"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        . . . . . 
+        # . # . #
+        `</field><next><block type="device_show_leds" id="5j;nrf@_RvgQxp@KX=~*"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="`Y/h:c.;gc,Jr`#oszKi" x="16" y="5"></block></xml>
